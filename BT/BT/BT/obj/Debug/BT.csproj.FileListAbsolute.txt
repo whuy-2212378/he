@@ -1,0 +1,20 @@
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\bin\Debug\BT.exe.config
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\bin\Debug\BT.exe
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\bin\Debug\BT.pdb
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\obj\Debug\BT.csproj.AssemblyReference.cache
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\obj\Debug\BT.Form1.resources
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\obj\Debug\BT.Properties.Resources.resources
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\obj\Debug\BT.csproj.GenerateResource.cache
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\obj\Debug\BT.csproj.CoreCompileInputs.cache
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\obj\Debug\BT.exe
+H:\My Drive\Phát triển ứng dụng Desktop\BT\BT\obj\Debug\BT.pdb
+C:\Users\Hoai Vu\Downloads\BT\BT\bin\Debug\BT.exe.config
+C:\Users\Hoai Vu\Downloads\BT\BT\bin\Debug\BT.exe
+C:\Users\Hoai Vu\Downloads\BT\BT\bin\Debug\BT.pdb
+C:\Users\Hoai Vu\Downloads\BT\BT\obj\Debug\BT.csproj.AssemblyReference.cache
+C:\Users\Hoai Vu\Downloads\BT\BT\obj\Debug\BT.Form1.resources
+C:\Users\Hoai Vu\Downloads\BT\BT\obj\Debug\BT.Properties.Resources.resources
+C:\Users\Hoai Vu\Downloads\BT\BT\obj\Debug\BT.csproj.GenerateResource.cache
+C:\Users\Hoai Vu\Downloads\BT\BT\obj\Debug\BT.csproj.CoreCompileInputs.cache
+C:\Users\Hoai Vu\Downloads\BT\BT\obj\Debug\BT.exe
+C:\Users\Hoai Vu\Downloads\BT\BT\obj\Debug\BT.pdb
